@@ -19,10 +19,6 @@ nav a {
     padding: 10px;
 }
 
-nav a:hover {
-    color: #dec621;
-}
-
 .right {
     margin-left: auto;
     margin-right: 10px;
